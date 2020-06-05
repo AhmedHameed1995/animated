@@ -2,7 +2,7 @@ This project includes framer motion Animations
 
 ## Demo
 
-You can view the project [here](http://animated-react.surge.sh/):
+You can view the project [here](http://animated-react.surge.sh/)
 
 ## Available Scripts
 
