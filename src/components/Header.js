@@ -17,7 +17,7 @@ const Header = () => {
         </svg>
       </div>
       <motion.div className="title" animate={{ y: -10 }} initial={{ y: -250 }} transition={{delay:0.2, type: 'spring', stiffness:120}}>
-        <h1>Animate Joint</h1>
+        <h1>Animate Pizza</h1>
       </motion.div>
     </header>
   )
