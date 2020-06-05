@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project includes framer motion Animations
+
+## Demo
+
+You can view the project [here] (http://animated-react.surge.sh/):
 
 ## Available Scripts
 
